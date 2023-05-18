@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"bomb_planting"
+	{
+		"#format"	"{1:s}"
+		"zho"		"{cyan}{1} {green}正在安裝 {red}BOMB{default}."
+	}
+	"bomb_stop_plant"
+	{
+		"#format"	"{1:s}"
+		"zho"		"{cyan}{1} {red}停止安裝 {red}BOMB{default}."
+	}
+	"bomb_success_plant"
+	{
+		"#format"	"{1:s}"
+		"zho"		"{cyan}{1} {red}成功安裝 {red}BOMB{default}."
+	}
+	"bomb_success_defuses"
+	{
+		"#format"	"{1:s}"
+		"zho"		"{cyan}{1} {blue}成功拆除 {red}BOMB{default}."
+	}
+	"bomb_success_boom"
+	{
+		"#format"	"{1:s}"
+		"zho"		"{cyan}{1} {darkred}成功引爆 {red}BOMB{default}."
+	}
+	"bomb_drop"
+	{
+		"#format"	"{1:s}"
+		"zho"		"{cyan}{1} {red}丟棄 {red}BOMB{default}."
+	}
+	"bomb_pick"
+	{
+		"#format"	"{1:s}"
+		"zho"		"{cyan}{1} {green}撿起 {red}BOMB{default}."
+	}
+	"bomb_defusing"
+	{
+		"#format"	"{1:s}"
+		"zho"		"{cyan}{1} {green}正在拆除 {red}BOMB{default}."
+	}
+	"bomb_stop_defusing"
+	{
+		"#format"	"{1:s}"
+		"zho"		"{cyan}{1} {red}停止拆除 {red}BOMB{default}."
+	}
+}

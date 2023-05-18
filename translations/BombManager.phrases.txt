@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"bomb_planting"
+	{
+		"#format"	"{1:s}"
+		"en"		"{cyan}{1} {green}planting {red}BOMB{default}."
+	}
+	"bomb_stop_plant"
+	{
+		"#format"	"{1:s}"
+		"en"		"{cyan}{1} {red}stop planting {red}BOMB{default}."
+	}
+	"bomb_success_plant"
+	{
+		"#format"	"{1:s}"
+		"en"		"{cyan}{1} {red}successfully planted {red}BOMB{default}."
+	}
+	"bomb_success_defuses"
+	{
+		"#format"	"{1:s}"
+		"en"		"{cyan}{1} {blue}successfully defused {red}BOMB{default}."
+	}
+	"bomb_success_boom"
+	{
+		"#format"	"{1:s}"
+		"en"		"{cyan}{1} {darkred}successfully detonated {red}BOMB{default}."
+	}
+	"bomb_drop"
+	{
+		"#format"	"{1:s}"
+		"en"		"{cyan}{1} {red}has dropped {red}BOMB{default}."
+	}
+	"bomb_pick"
+	{
+		"#format"	"{1:s}"
+		"en"		"{cyan}{1} {green}has picked up {red}BOMB{default}."
+	}
+	"bomb_defusing"
+	{
+		"#format"	"{1:s}"
+		"en"		"{cyan}{1} {green}is defusing {red}BOMB{default}."
+	}
+	"bomb_stop_defusing"
+	{
+		"#format"	"{1:s}"
+		"en"		"{cyan}{1} {red}stop defusing {red}BOMB{default}."
+	}
+}
